@@ -13,5 +13,5 @@
 </a>
 ```
 - [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [] This item is complete
+- [X] This item is not complete
